@@ -1,0 +1,12 @@
+.content{
+  display: flex;
+}
+
+section{
+  padding: 1em;
+  flex-basis: 640px;
+  flex-shrink: 0;
+
+  display: flex;
+  flex-direction: column;
+}
